@@ -1,0 +1,65 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "carModel": "Mercedes",
+      "carBrand": "AMG",
+      "carUrl": "carImages/car1.jpg",
+      "carPrice": 18
+    },
+    {
+      "carBrand": "X5",
+      "carModel": "BMW",
+      "carPrice": 15,
+      "carUrl": "carImages/car2.jpg",
+      "id": 2
+    },
+    {
+      "carBrand": "A3",
+      "carModel": "Audi",
+      "carPrice": "10",
+      "carUrl": "carImages/car3.jpg",
+      "id": 3
+    },
+    {
+      "carBrand": "Ford",
+      "carModel": "Focus",
+      "carPrice": "7",
+      "carUrl": "carImages/car4.jpg",
+      "id": 4
+    },
+    {
+      "carBrand": "Renault",
+      "carModel": "Clio",
+      "carPrice": "8",
+      "carUrl": "carImages/car1.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Ferdi",
+      "surname": "Koca",
+      "username": "fkoca",
+      "password": "1234",
+      "addedCars": [],
+      "id": 1
+    }
+  ],
+  "locations": [
+    {
+      "locationName": "Architecht Bilişim Sistemleri ve Pazarlama Ticaret A.Ş.",
+      "lat": 40.92314334391547,
+      "lng": 29.31636180797253,
+      "phone": "+905551242815",
+      "email": "location1@info.com"
+    },
+    {
+      "locationName": "Emaar Square AVM",
+      "lat": 41.00380158099206,
+      "lng": 29.071377214883437,
+      "phone": "+905551643815",
+      "email": "location2@info.com"
+    }
+  ]
+}
