@@ -1,6 +1,9 @@
 # React_TrainAndWork_Assignment1
+## Rent A Car React Project 
 
-To use Google Maps
+📌  Instructions 
+
+To use Google Maps;
 
 create <span style='color: green;'>src/GoogleMapsKey.js</span> file and insert following code with your specific key.
 Then, import key in 
